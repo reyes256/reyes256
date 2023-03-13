@@ -18,10 +18,6 @@
   <h1>Hello there!, I'm Fernando Reyes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-<div id="banner" align="center">
-  <img src="https://media.giphy.com/media/L5yKZlrlwTnbi/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 ### :crossed_swords: About Me :
 
@@ -31,7 +27,7 @@ I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :gear: Tech Enthusiast.
 
-- :musical_note: Bass Player just for fun.
+- :musical_note: Bass Player for fun.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
